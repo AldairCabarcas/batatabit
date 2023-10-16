@@ -1,0 +1,27 @@
+/* Section tables */
+.main__container-tables{
+    width: 768px;
+    justify-content: space-around;
+}
+.table__currency{
+}
+/* Section Benefics */
+.main__container-benefics{
+}
+.main__container-cards{
+    display: flex;
+    width: 768px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.backgraund__bitcoin p{
+    font-size: 0;
+}
+/* Section plans */
+.plans_container-slider{
+    display: flex;
+    width: 768px;
+}
+.plan_container--card{
+    margin: 20px 10px;
+}
